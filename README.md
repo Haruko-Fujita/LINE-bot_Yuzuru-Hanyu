@@ -1,6 +1,6 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# Name
 
-Yuzuru Hanyu bot
+### Yuzuru Hanyu bot
 
 Figure skater Yuzuru Hanyu is a LINE bot that encourages and cheers you up.
 
